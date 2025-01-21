@@ -1,6 +1,6 @@
-# 📝 TODOlist App  
+# 📝 To-Do List App  
 
-Say goodbye to forgetting tasks! The **TODOlist App** is your trusty companion for staying organized. Add, check, uncheck, and delete tasks effortlessly—all while keeping them safe in your browser even after a refresh in a simple way.  
+Say goodbye to forgetting tasks! The **To-Do List App** is your trusty companion for staying organized. Add, check, uncheck, and delete tasks effortlessly—all while keeping them safe in your browser even after a refresh in a simple way.  
 
 🌐 **Live Demo**: [Try it here!](https://leahamp.github.io/ToDoListApp/)  
 
